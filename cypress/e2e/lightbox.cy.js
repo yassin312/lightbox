@@ -3,7 +3,7 @@
 describe('lightbox', () => {
 
     beforeEach(() => {
-        cy.visit('../../components/lightbox.html')
+        cy.visit('../app/lightbox.html')
     })
 
     // 1
